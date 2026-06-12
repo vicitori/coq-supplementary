@@ -7,7 +7,7 @@ Require Export Id.
 Require Export State.
 Require Export Expr.
 
-(* From hahn Require Import HahnBase. *)
+From hahn Require Import HahnBase.
 From Stdlib Require Import Program.Equality.
 
 (* AST for statements *)
